@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on educational tools and recommendation systems. 
 - 📫 How to reach me ... email me here for any inquiries: robinkjbird@gmail.com
 - 😄 Pronouns: She/They 
-- ⚡ Fun fact: I have two adorable cats, one named Luci and the other is Kiko.
+- ⚡ Fun fact: I have two adorable cats, one named Luci and the other, Kiko.
 
 <!---
 flower-cowboy/flower-cowboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
